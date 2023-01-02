@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning pytorch.
 - 👯 I’m looking to collaborate on apps using ai tech.
 - 💬 Ask me about my 
-- 📫 How to reach me: (@shroominic)[https://linktr.ee/shroominic]
+- 📫 How to reach me: [@shroominic](https://linktr.ee/shroominic)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like mushrooms
 
