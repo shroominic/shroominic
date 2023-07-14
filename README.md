@@ -6,6 +6,7 @@
 👨‍💻 I'm Dominic and like working on random ideas with a tiny chance of profitability.
 
 Currently working on these projects: 
+- [Code Interpreter API](https://github.com/shroominic/codeinterpreter-api) - using LangChain Agents and CodeBox
 - [GPT Assistant](https://gptassistant.app) - chatgpt discord bot
 - [NeuralShirts](https://beta.neuralshirts.com) - ai generated tshirts
 - AutoCodr (no link yet) - taking programmers jobs
