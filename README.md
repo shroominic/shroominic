@@ -16,6 +16,6 @@ Previous work:
 - [Just Meditation](https://apps.apple.com/us/app/just-meditation/id1634620265) - a minimalistic meditation app
 - other tiny open sourced projects here
 
-📫 How to reach me: [@shroominic](https://shroominic.com)
+📫 How to reach me: [@shroominic](https://shroominic.com) or [contact@shroominic.com](mailto:contact@shroominic.com)
 
 
