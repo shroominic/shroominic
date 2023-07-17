@@ -9,7 +9,7 @@ Currently working on these projects:
 - [Code Interpreter API](https://github.com/shroominic/codeinterpreter-api) - using LangChain Agents and CodeBox
 - [GPT Assistant](https://gptassistant.app) - chatgpt discord bot
 - [NeuralShirts](https://beta.neuralshirts.com) - ai generated tshirts
-- AutoCodr (no link yet) - taking programmers jobs
+- AutoCodr (coming soon) - automatic coding using LLM Agents
 
 Previous work:
 - [Sensei Doro](https://top.gg/bot/928304609636794388) - pomodoro manager for remote co-working on discord
