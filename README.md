@@ -20,8 +20,10 @@ Coming soon:
 
 📫 How to reach me: [@shroominic](https://x.com/shroominic) or [contact@shroominic.com](mailto:contact@shroominic.com)
 
+<!--
 <br/>
 
 <a href="https://shroominic.com">
   <img alt="shroominic.com" src="https://awesome-github-stats.azurewebsites.net/user-stats/shroominic?cardType=github&theme=github-dark&showIcons=false&preferLogin=true" />
 </a>
+!-->
