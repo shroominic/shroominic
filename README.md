@@ -6,8 +6,8 @@
 👨‍💻 I'm Dominic and like working with AI.
 
 Projects:
-- [Funcchain](https://github.com/shroominic/funcchain) - pythonic syntax on top of langchain
-- [Code Interpreter API](https://github.com/shroominic/codeinterpreter-api) - using LangChain Agents and [CodeBoxAPI](https://github.com/shroominic/codebox-api)
+- [Funcchain](https://github.com/shroominic/funcchain) - pythonic tooling on top of langchain
+- [Code Interpreter API](https://github.com/shroominic/codeinterpreter-api) - using langchain agents and [CodeBoxAPI](https://github.com/shroominic/codebox-api)
 - [UI Engineer](https://ui.engineer) - automatic html/tailwindcss code using ai
 - [FastUI-Chat](https://github.com/shroominic/) - minimalistic chat interface using fastapi, fastui and langchain
 - [GPT Assistant](https://gptassistant.app) - chatgpt discord bot
