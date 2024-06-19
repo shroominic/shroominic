@@ -16,7 +16,7 @@ Projects:
 - [Just Meditation](https://github.com/shroominic/just_meditation) - just a meditation app
 
 Coming soon:
-- AutoCodr - automatic coding using LLM Agents (coming soon)
+- [autocodr](https://autocodr.com) - automatic coding using LLM Agents
 
 📫 How to reach me: [@shroominic](https://x.com/shroominic) or [contact@shroominic.com](mailto:contact@shroominic.com)
 
